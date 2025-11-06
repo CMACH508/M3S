@@ -87,7 +87,7 @@ run the jupyter notebook metrics_test.ipynb
   <img src="assets/Qualitative_Comparion.jpg">
 </p>
 
-### Multi Style
+### Multi Styles
 <p align="center">
   <img src="assets/MultiStyle.jpg">
 </p>
